@@ -1,0 +1,174 @@
+.logo {
+    max-width: 100px;
+}
+
+.navbar {
+    background-color: rgb(66, 200, 253);
+}
+
+.cardjogos {
+    margin-top: 20px;
+
+}
+
+.titulolan {
+    margin-top: 50px;
+}
+
+.filtro {
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.blocolan {
+    margin-left: 120px;
+}
+
+.botao1 {
+    margin-left: 1040px;
+    margin-top: 50px;
+}
+
+.botao2 {
+    margin-top: 50px;
+    margin-left: 870px;
+}
+
+.formimg {
+    width: 100%;
+    height: 210px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.imgcard {
+    max-height: 150px;
+}
+
+.tituloprincipal {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.nome_jogo {
+    margin-top: 60px;
+}
+
+.cardplat {
+    margin-top: 20px;
+}
+
+.barra {
+    font-size: 25px;
+}
+
+.rodape {
+    margin-top: 50px;
+    background-color: rgb(66, 200, 253);
+}
+
+.pesquisa_nav {
+    margin-left: 1100px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(66, 200, 253);
+}
+
+.textoSobre {
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.textoEditorial {
+    margin-top: 20px;
+}
+
+.pesquisa {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+@media screen and (min-width: 200px) and (max-width: 670px) {
+    .titulolan {
+        margin-top: 30px;
+        margin-left: -35px;
+        margin-bottom: -60px;
+    }
+
+    .botao1 {
+        margin-left: 55px;
+    }
+
+    .botao2 {
+        margin-left: 23px;
+    }
+
+    .filtro {
+        margin-left: -25px;
+
+    }
+
+    .cardjogos {
+        margin-left: 40px;
+    }
+
+    .tituloplat {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .criticas {
+        margin-left: 25px ;
+    }
+
+    .textoSobre {
+        text-align: center;
+    }
+
+    .textoEditorial {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 675px) and (max-width: 900px) {
+    .titulolan {
+        margin-top: 30px;
+        margin-left: -20px;
+        margin-bottom: -60px;
+    }
+
+    .botao1 {
+        margin-left: 75px;
+    }
+
+    .botao2 {
+        margin-left: 45px;
+    }
+
+    .filtro {
+        margin-left: -7px;
+
+    }
+
+    .cardjogos {
+        margin-left: 60px;
+    }
+
+    .tituloplat {
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    .criticas {
+        margin-left: 45px ;
+    }
+
+    .tituloprincipal {
+        margin-left: 12px;
+    }
+}
